@@ -1,0 +1,7 @@
+bin/**
+.classpath
+*.swp
+.settings
+local.properties
+gen
+/bin
