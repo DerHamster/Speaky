@@ -52,9 +52,11 @@ public class UIHelper {
 	private static final int BG_COLOR = 0xFF181818;
 	private static final int FG_COLOR = 0xFFE5E5E5;
 	private static final int TRANSPARENT = 0x00000000;
+//	private static final int DATE_NO_YEAR_FLAGS = DateUtils.FORMAT_SHOW_DATE
+//			| DateUtils.FORMAT_NO_YEAR | DateUtils.FORMAT_ABBREV_ALL;
 	private static final int DATE_NO_YEAR_FLAGS = DateUtils.FORMAT_SHOW_DATE
-			| DateUtils.FORMAT_NO_YEAR | DateUtils.FORMAT_ABBREV_ALL;
-
+			| DateUtils.FORMAT_NO_YEAR | DateUtils.FORMAT_ABBREV_ALL | DateUtils.FORMAT_SHOW_TIME ;
+	
 	public static String readableTimeDifference(Context context, long time) {
 		if (time == 0) {
 			return context.getString(R.string.just_now);

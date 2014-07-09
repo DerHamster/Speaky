@@ -79,6 +79,6 @@
             android:key="never_send"
             android:title="@string/pref_never_send_crash"
             android:summary="@string/pref_never_send_crash_summary"
-            android:defaultValue="false"/>
+            android:defaultValue="true"/>
         </PreferenceCategory>
 </PreferenceScreen>
