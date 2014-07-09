@@ -70,8 +70,8 @@
     <string name="invitation_sent">Einladung wurde versandt</string>
     <string name="account_offline">Account offline</string>
     <string name="cant_invite_while_offline">Du musst online sein um andere Leute zu einer Konferenz einzuladen</string>
-    <string name="crash_report_title">Conversations ist abgestürzt</string>
-    <string name="crash_report_message">Durch das Einsenden von Fehlerberichten hilfst du der stetigen Verbesserung von Conversations.\n<b>Achtung:</b> Dies wird einen von deinen XMPP Konten benutzen um den Entwickler zu kontaktieren.</string>
+    <string name="crash_report_title">Speaky ist abgestürzt</string>
+    <string name="crash_report_message">Durch das Einsenden von Fehlerberichten hilfst du der stetigen Verbesserung von Speaky.\n<b>Achtung:</b> Dies wird einen von deinen XMPP Konten benutzen um den Entwickler zu kontaktieren.</string>
     <string name="send_now">Jetzt abschicken</string>
     <string name="send_never">Nie mehr nachfragen</string>
     <string name="problem_connecting_to_account">Es gibt Probleme beim Verbindungsaufbau mit einem Konto</string>
@@ -147,7 +147,7 @@
     <string name="pref_conference_name_summary">Benutze das Thema der Konferenz als Name in der Überschicht</string>
     <string name="pref_advanced_options">Erweiterte Optionen</string>
     <string name="pref_never_send_crash">Sende niemals Absturzberichte</string>
-    <string name="pref_never_send_crash_summary">Wenn du Absturzberichte einschickst hilfst du Conversations stetig zu verbessern.</string>
+    <string name="pref_never_send_crash_summary">Wenn du Absturzberichte einschickst hilfst du Speaky stetig zu verbessern.</string>
     <string name="openpgp_error">Fehler mit OpenKeychain</string>
     <string name="error_decrypting_file">Fehler beim entschlüsseln der Datei</string>
     <string name="error_copying_image_file">Fehler beim Kopieren des Bildes</string>
